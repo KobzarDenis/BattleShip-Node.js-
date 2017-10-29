@@ -1,0 +1,14 @@
+{
+  "name": "battleship",
+  "version": "0.0.1",
+  "dependencies": {
+    "ws": "^3.2.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "author": "Denis Kobzar",
+  "license": "ISC"
+}
